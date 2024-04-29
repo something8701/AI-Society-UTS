@@ -1,1 +1,1 @@
-# AI-Society-UTS-
+# AI-Society-UTS
